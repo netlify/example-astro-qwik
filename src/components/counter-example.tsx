@@ -1,7 +1,7 @@
 import { component$, useSignal, $ } from '@builder.io/qwik';
 
 const CounterExample = component$(() => {
-  const counter = useSignal(0);
+  const counter = useSignal<number>(0);
 
   const handleUpdate = $(() => {
     counter.value++;
