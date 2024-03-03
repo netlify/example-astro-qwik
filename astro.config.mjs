@@ -1,3 +1,6 @@
 import { defineConfig } from 'astro/config';
+import qwikdev from '@qwikdev/astro';
 
-export default defineConfig({});
+export default defineConfig({
+  integrations: [qwikdev()],
+});
