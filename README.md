@@ -1,1 +1,1 @@
-# netlify-astro-qwik
+# Getting Started with Netlify Astro and Qwik
