@@ -2,7 +2,11 @@
 
 A simple example site to accompany this guide:
 
-https://developers.netlify.com//guides/adding-resumability-to-astro-with-qwik/
+https://developers.netlify.com/guides/adding-resumability-to-astro-with-qwik/
+
+View this example site here:
+
+https://example-astro-qwik.netlify.app/
 
 ## Clone and deploy this example
 
